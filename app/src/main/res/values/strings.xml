@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dishwasher App</string>
+    <string name="dishwasher_available">Dishwashers Available</string>
+    <string name="error_message">Error Message</string>
+</resources>
